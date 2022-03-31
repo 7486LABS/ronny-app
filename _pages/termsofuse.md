@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 6, 2020
+April, 2022
 
 # Terms of Use
 
