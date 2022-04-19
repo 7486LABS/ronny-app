@@ -6,14 +6,14 @@ include_in_header: false
 
 
 **Last updated**  
-April, 2022
+September 6, 2020
 
 # Privacy Policy
 
 Contact Information:
-<a href="mailto:hello@7486labs.com">hello@7486labs.com</a>
+<a href="mailto:donut@thehelpingcompany.com">Donut@TheHelpingCompany.com</a>
 
-This privacy policy applies to the information that we collect from you when you use our website https://ronny.app, and our mobile applications named collectively and herein after called “Platform”.
+This privacy policy applies to the information that we collect from you when you use our website https://getdonut.com, and our mobile applications named collectively and herein after called “Platform”.
 
 Our privacy policy tells you what personal data and non-personal data we may collect from you, how we collect them, how we protect them, how we share them, how you can access and change them, and how you can limit our sharing of them. Our privacy policy also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Platform.
 
